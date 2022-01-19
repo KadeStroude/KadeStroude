@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KadeStroude
 - 👀 I’m interested in Finance, Blockchain and DeFi
 - 🌱 I’m currently learning about transformative technologies
-- 💞️ I’m looking to collaborate on anything I can help with!
 - 📫 Reach me at kfstroude@gmail.com
 
 <!---
